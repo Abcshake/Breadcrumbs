@@ -1,0 +1,21 @@
+  [{
+    "label": "home",
+    "message": "Welcome home"
+  },
+  {
+    "label": "filea",
+    "message": "this file is filea.txt"
+  },
+  {
+    "label": "fileb",
+    "message": "this file is fileb.txt"
+  },
+  {
+    "label": "mysupersecretproject",
+    "message": "this file is mysupersecretproject"
+  },
+  {
+    "label": "mysupersecretfile",
+    "message": "this file is mysupersecretfile"
+  }
+]
